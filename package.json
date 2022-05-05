@@ -5,6 +5,9 @@
   "repository": "git@github.com:Caixetadev/nlwreturnbackend.git",
   "author": "Rafael Caixeta <caixetadev@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
   "devDependencies": {
     "@types/node": "^17.0.31",
     "ts-node-dev": "^1.1.8",
