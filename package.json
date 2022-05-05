@@ -1,0 +1,13 @@
+{
+  "name": "backendnlwreturn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Caixetadev/nlwreturnbackend.git",
+  "author": "Rafael Caixeta <caixetadev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
